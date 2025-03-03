@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+```markdown
+# theAIDeveloper
 
-## Getting Started
+Learn how to create your own AI apps.
 
-First, run the development server:
+![Logo](https://d3erng0hrrd7m4.cloudfront.net/logo.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## AI Script Generator App
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Description:**  
+This web application allows users to generate short video scripts for TikTok, Reels, and YouTube Shorts. By providing an idea, selecting a niche, and setting the desired duration, the app communicates with **OpenAI's API** to create structured scripts with suggested pauses.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Structure:**
+- `src/app/` - Application pages and API routes
+- `src/components/` - React components for user interaction
+- `src/types/` - TypeScript type definitions
+- `.env` - Configuration for API keys
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Technology:**
+- Next.js
+- TypeScript
+- Tailwind CSS
+- OpenAI API
+
+## Projects
+
+Explore additional AI projects at [theAIDeveloper Projects](https://www.the-aideveloper.com/projects).
+
+## Guides
+
+Find step-by-step guides and tutorials at [theAIDeveloper Guides](https://www.the-aideveloper.com/guides).
+
+## Author
+
+**Carlos Polanco**  
+Passionate AI developer and educator, helping developers build AI-powered applications.
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+If you want to learn more, visit [theAIDeveloper.com](https://www.the-aideveloper.com).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Connect with Us
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [![YouTube](./social/youtube.png)](https://www.youtube.com/@theaideveloper) YouTube
+- [![Instagram](./social/instagram.png)](https://www.instagram.com/cptheaideveloper/) Instagram
+- [![Twitter](./social/x.png)](https://x.com/cpaideveloper) Twitter
+- [![TikTok](./social/tiktok.png)](https://www.tiktok.com/@codingnutella) TikTok
+- [![LinkedIn](./social/linkedin.png)](https://www.linkedin.com/company/theaidevelopercp/) LinkedIn
 
-## Deploy on Vercel
+## GitHub
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Visit our GitHub profile: [cpTheAideveloper](https://github.com/cpTheAideveloper)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Website
+
+Explore our website: [theAIDeveloper.com](https://www.the-aideveloper.com/)
+
+## License
+
+This project is **free** and licensed under the [MIT License](LICENSE).
+```
