@@ -21,9 +21,30 @@ This web application allows users to generate short video scripts for TikTok, Re
 - Tailwind CSS
 - OpenAI API
 
-## Projects
+## 🎉 OFF30 - Get **30% Off** Any Project!  
+*First-time purchases only.*
 
-Explore additional AI projects at [theAIDeveloper Projects](https://www.the-aideveloper.com/projects).
+---
+
+## 🚀 Projects Section  
+
+### 🌟 Projects Available  
+
+💡 **ChatGPT Clone:** 👉 [Get the Code](https://www.the-aideveloper.com/products/ez94_t)  
+💡 **Gemini Clone:** 👉 [Get the Code](https://www.the-aideveloper.com/products/ABktLQ)  
+💡 **NodeAPI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/dMVTnM)  
+💡 **Voice AI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/G4rfGx)  
+💡 **DocumentAI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/7HVdbq)  
+💡 **FlowAI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/f6-3Am)  
+💡 **VideoAI:** 👉 [Get the Code](https://www.the-aideveloper.com/products/9jiaLF)  
+
+---
+
+### 🔥 CoreGPT Packages  
+
+👉 **CoreGPT React + NodeJS**: [Get It Here](https://checkout.the-aideveloper.com/b/14keVD7vgcDw4mc6pb)  
+👉 **CoreGPT React + Python FastAPI**: [Get It Here](https://checkout.the-aideveloper.com/b/dR614N8zkdHA8CseVI)  
+
 
 ## Guides
 
